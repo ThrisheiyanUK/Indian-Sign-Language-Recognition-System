@@ -172,8 +172,7 @@ MIT License – see [LICENSE](LICENSE).
 
 ---
 
-## 📞 Support
-- Check [Issues](https://github.com/your-repo/issues)  
+## 📞 Support  
 - Open a new issue with details (system specs + error logs)  
 
 ---
